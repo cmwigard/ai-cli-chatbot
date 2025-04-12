@@ -1,0 +1,3 @@
+[settings]
+model = "mistral"
+api = "http://localhost:11434/api/chat"
